@@ -1,0 +1,14 @@
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\bin\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.deps.json
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\bin\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.runtimeconfig.json
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\bin\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.dll
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\bin\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.pdb
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.AssemblyInfo.cs
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.dll
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\refint\Infosys.DBFirstCore.DataAccessLayer.dll
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.pdb
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\Infosys.DBFirstCore.DataAccessLayer.genruntimeconfig.cache
+C:\Users\shanm\source\repos\Infosys.QuestBankDBFirst\Infosys.DBFirstCore.DataAccessLayer\obj\Debug\net6.0\ref\Infosys.DBFirstCore.DataAccessLayer.dll
